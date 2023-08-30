@@ -4,7 +4,7 @@ let url = 'http://localhost:3000/api/cat';
 
 let cat = {
     title: 'Test title',
-    path: 'images/sky4.jpeg',
+    path: 'images/beluga.jpeg',
     subTitle: 'test subtitle',
     description: 'Test description'
 }
